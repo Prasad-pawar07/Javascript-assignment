@@ -1,0 +1,28 @@
+body{
+	font-family: 'Rubik', sans-serif;
+}
+.form-inline{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.form-inline input{
+	width: 80%;
+	outline: none;
+}
+.form-inline a{
+	color: #fff !important;
+	border-radius: 0px;
+}
+
+.data{
+	padding: 0px;
+}
+.data li{
+	border: 1px solid;
+	border-radius: 10px;
+    width: 87%;
+    list-style: none;
+    margin: 10px auto;
+    padding: 5px;
+}
